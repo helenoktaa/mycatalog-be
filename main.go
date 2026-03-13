@@ -4,9 +4,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/joho/godotenv"
 	"github.com/helenoktaa/mycatalog-be/config"
 	"github.com/helenoktaa/mycatalog-be/routes"
+	"github.com/joho/godotenv"
 )
 
 func main() {
